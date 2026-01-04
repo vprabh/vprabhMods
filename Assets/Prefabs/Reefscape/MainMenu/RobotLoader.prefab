@@ -44,5 +44,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f6e5076d4abba0740b9d444725eba6f5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  <AllRobotsLoaded>k__BackingField: 0
   defaultModpack: {fileID: 11400000, guid: 6f6afe78ede7a7544984dbf259e396c4, type: 2}
